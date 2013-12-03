@@ -62,7 +62,9 @@ label hall_empty:
 label hall_escape:
 
     if suspect_lexia == True:
-        ending: "Felix is discovered trying to stop the infection"
+        "Felix is discovered trying to stop the infection"
 
     else if suspect_jenkins == True:
-        ending: "Felix isn’t found, tries to stop the infection but it’s too late"
+        "Felix isn’t found, tries to stop the infection but it’s too late"
+
+    return
