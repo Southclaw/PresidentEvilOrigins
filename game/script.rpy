@@ -19,6 +19,7 @@ init:
     $ suspect_jenkins = False
     $ has_sample = False
 
+
 label start:
 
     scene room_lab
@@ -27,6 +28,9 @@ label start:
 
     jump lab
 
-label end:
+
+label ending_end:
+
+    "Thank you for playing!"
 
     return

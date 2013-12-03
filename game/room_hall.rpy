@@ -5,7 +5,7 @@
     if task_lexia == False:
         jump hall_lexia
 
-    if has_sample == True
+    if has_sample == True:
         jump hall_escape
     
     jump hall_empty
@@ -62,9 +62,7 @@ label hall_empty:
 label hall_escape:
 
     if suspect_lexia == True:
-        "Felix is discovered trying to stop the infection"
+        jump ending_bad
 
-    else if suspect_jenkins == True:
-        "Felix isn’t found, tries to stop the infection but it’s too late"
-
-    return
+    if suspect_jenkins == True:
+        jump ending_good

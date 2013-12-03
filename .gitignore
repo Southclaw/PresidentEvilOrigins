@@ -1,3 +1,13 @@
+#Compiled RPY files
+game/bytecode.rpyb
+game\script.rpyc
+
+game/*.rpyc
+game/*.rpyb
+
+*.rpyc
+*.rpyb
+
 #################
 ## Eclipse
 #################
@@ -213,7 +223,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-#Compiled RPY files
-*.rpyc
-*.rpyb
