@@ -14,6 +14,7 @@ label lab_givetask:
 
     char_jenkins "The president wants to talk to you about something."
     char_jenkins "Also, there's an odd looking sample I noticed in storage earlier\ncan you go grab it for me to analyze?"
+    char_jenkins "It's very important that you do NOT let Lexia see you take it!"
 
     $ task_jenkins = True
 

@@ -5,8 +5,10 @@
     if task_lexia == False:
         jump hall_lexia
 
-    else:
-        jump hall_empty
+    if has_sample == True
+        jump hall_escape
+    
+    jump hall_empty
 
 
 label hall_lexia:
@@ -26,7 +28,7 @@ label hall_lexia_talk:
 
     char_lexia "Ah Felix! Just the person I need. I think that Jenkins is a\nterrorist trying to bring down our research from the inside!"
 
-    char_lexia "I need you to go down to the storage room and grab the sample\nlabeled 'Z' in case Jenkins tried to alter it."
+    char_lexia "I need you to go down to the storage room and grab the sample\nlabeled 'Z' in case Jenkins tried to alter it. Don't let him see you!"
 
     "Lexia leaves abruptly before you can respond."
 
@@ -43,7 +45,7 @@ label hall_lexia_talk:
 label hall_gotostorage:
 
     "Lexia gives you a strange look as you rush past and head down to the storage room"
-    $suspect_lexia = True
+    $ suspect_lexia = True
     jump storage
 
 
@@ -55,3 +57,12 @@ label hall_empty:
 
         "Go back into the lab":
             jump lab
+
+
+label hall_escape:
+
+    if suspect_lexia == True:
+        ending: "Felix is discovered trying to stop the infection"
+
+    else if suspect_jenkins == True:
+        ending: "Felix isn’t found, tries to stop the infection but it’s too late"
