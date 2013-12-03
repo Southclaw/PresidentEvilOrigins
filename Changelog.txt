@@ -1,0 +1,23 @@
+2013/11/01
+Started planning the design of the game out in a document.
+Layed out the format of the document.
+Wrote about the link between this project and the FMP.
+Outlined the basic storyline and characters.
+
+2013/11/11
+Elaborated planning for the setting, decided not to add extra rooms that aren't in FMP.
+Decided to have 4 characters in the game.
+Created names for characters, taken two existing characters from the FMP.
+Started planning the areas/rooms: lab, storage, hallway, oval office
+
+2013/11/22
+Decided to remove the oval office room.
+Settled on rooms: lab, hallway, storage and nighttime hallway.
+Structured the story, branches and choices in a pseudo-code form.
+Documented various stages of planning with screenshots.
+Started writing the scripts, declared character+environment placeholder variables.
+
+2013/11/25
+Created placeholder images for the 4 room scenes.
+The placeholders mean I can work on the code without needing to wait for the actual renders to be created.
+Started work on coding the basic structure of the game.

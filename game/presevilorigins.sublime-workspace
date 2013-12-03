@@ -1,0 +1,1436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lab",
+				"label"
+			],
+			[
+				"C_b",
+				"C_BLUE"
+			],
+			[
+				"lock",
+				"SetVehicleTrunkLock"
+			],
+			[
+				"Inject",
+				"InjectPlayer"
+			],
+			[
+				"it",
+				"itemtype"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"maxhit",
+				"def_maxHitPoints"
+			],
+			[
+				"defty",
+				"def_TypeData"
+			],
+			[
+				"conti",
+				"containerid"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"ho",
+				"holsteritemname"
+			],
+			[
+				"MAX",
+				"MAX_PLAYERS"
+			],
+			[
+				"VehicleDoo",
+				"VehicleDoorsState"
+			],
+			[
+				"arra",
+				"array_data"
+			],
+			[
+				"arr",
+				"array_data"
+			],
+			[
+				"filech",
+				"gPerformFileCheck"
+			],
+			[
+				"oldfilena",
+				"old_filename_inv"
+			],
+			[
+				"itemi",
+				"item_typeid"
+			],
+			[
+				"filename",
+				"filename"
+			],
+			[
+				"DIRE",
+				"DIRECTORY_INVENTORY"
+			],
+			[
+				"old_filen",
+				"old_filename_inv"
+			],
+			[
+				"oldfilepl",
+				"old_filename_ply"
+			],
+			[
+				"oldfil",
+				"old_filename_ply"
+			],
+			[
+				"DIRECTORY",
+				"DIRECTORY_INVENTORY_BACKUP"
+			],
+			[
+				"INV",
+				"INV_CELL_OLD_BAGITEMS"
+			],
+			[
+				"new_file",
+				"new_file_inv"
+			],
+			[
+				"new_data",
+				"new_data_ply"
+			],
+			[
+				"oldda",
+				"old_data_ply"
+			],
+			[
+				"ret",
+				"ret_inv"
+			],
+			[
+				"newend",
+				"PLY_CELL_NEW_END"
+			],
+			[
+				"END",
+				"PLY_CELL_OLD_END"
+			],
+			[
+				"GetPlayer",
+				"GetPlayerFacingAngle"
+			],
+			[
+				"Format",
+				"FormatBanDurationDialog"
+			],
+			[
+				"ta",
+				"ply_SpectateTarget"
+			],
+			[
+				"new",
+				"newkeys"
+			],
+			[
+				"bandura",
+				"FormatBanDurationDialog"
+			],
+			[
+				"DIALO",
+				"DIALOG_STYLE_INPUT"
+			],
+			[
+				"ban",
+				"ban_CurrentReason"
+			],
+			[
+				"curre",
+				"ban_CurrentTarget"
+			],
+			[
+				"banc",
+				"ban_CurrentTarget"
+			],
+			[
+				"BAN_",
+				"BAN_VEH_DESTROY"
+			],
+			[
+				"Cancel",
+				"CancelBan"
+			],
+			[
+				"pla",
+				"playername"
+			],
+			[
+				"FIELD_BANS_D",
+				"FIELD_BANS_DURATION"
+			],
+			[
+				"FIELD_BAN",
+				"FIELD_BANS_DURATION"
+			],
+			[
+				"LO",
+				"LoadPlayerChar"
+			],
+			[
+				"DIALOG",
+				"DIALOG_STYLE_LIST"
+			],
+			[
+				"d_",
+				"d_IssueSubmit"
+			],
+			[
+				"def_bu",
+				"def_ButtonDefence"
+			],
+			[
+				"ite",
+				"itemid"
+			],
+			[
+				"Stop",
+				"StopHoldAction"
+			],
+			[
+				"GRAV",
+				"KNIFE_GRAVITY_POWER"
+			],
+			[
+				"Inve",
+				"InventoryUI_Item"
+			],
+			[
+				"PlayerTextDr",
+				"PlayerTextDrawShow"
+			],
+			[
+				"0xFFFF",
+				"0xFFFF00FF"
+			],
+			[
+				"selec",
+				"inv_SelectedSlot"
+			],
+			[
+				"playteid",
+				"playertextid"
+			],
+			[
+				"play",
+				"playertextid"
+			],
+			[
+				"Play",
+				"PlayerText"
+			],
+			[
+				"Playerte",
+				"PlayerTextDrawShow"
+			],
+			[
+				"IN",
+				"INV_UI_SPACING"
+			],
+			[
+				"DEFAULT_POS_",
+				"DEFAULT_POS_Y"
+			],
+			[
+				"vh_",
+				"vh_ResetVehiclePosition"
+			],
+			[
+				"mute",
+				"PLY_CELL_MUTE_TIME"
+			],
+			[
+				"d",
+				"duration"
+			],
+			[
+				"muted",
+				"mute_Muted"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"float",
+				"TYPE_FLOAT"
+			],
+			[
+				"col1",
+				"col1"
+			],
+			[
+				"gstt",
+				"gStmt_VehicleInsert"
+			],
+			[
+				"st",
+				"stmt_bind_result_field"
+			],
+			[
+				"gstmt",
+				"gStmt_VehicleCount"
+			],
+			[
+				"load",
+				"LoadVehicles"
+			],
+			[
+				"TAL",
+				"VEHICLE_TABLE"
+			],
+			[
+				"starter",
+				"item_StarterMotor"
+			],
+			[
+				"FIELD_ADMIN",
+				"FIELD_ADMINS_LEVEL"
+			],
+			[
+				"name",
+				"admin_Name"
+			],
+			[
+				"gStmt_AccountGetAliases",
+				"gStmt_AccountGetAliasesHash"
+			],
+			[
+				"by",
+				"bypass"
+			],
+			[
+				"GetP",
+				"GetPlayerPos"
+			],
+			[
+				"knife",
+				"item_Knife"
+			],
+			[
+				"itemtyp",
+				"itemtype"
+			],
+			[
+				"MAXPA",
+				"MAX_PLAYER_NAME"
+			],
+			[
+				"currentl",
+				"btn_CurrentlyNear"
+			],
+			[
+				"inde",
+				"btn_CurrentlyNearIndex"
+			],
+			[
+				"btnnea",
+				"btn_CurrentlyNearIndex"
+			],
+			[
+				"current",
+				"btn_CurrentlyNear"
+			],
+			[
+				"cur",
+				"btn_CurrentlyNearIndex"
+			],
+			[
+				"near",
+				"btn_CurrentlyNear"
+			],
+			[
+				"IDENT",
+				"BTN_STREAMER_AREA_IDENTIFIER"
+			],
+			[
+				"BTN",
+				"BTN_MAX_INRANGE"
+			],
+			[
+				"ACCOUNTS_TABLE_W",
+				"ACCOUNTS_TABLE_WHITELIST"
+			],
+			[
+				"mailbo",
+				"item_Mailbox"
+			],
+			[
+				"item_",
+				"item_LocksmithKit"
+			],
+			[
+				"vehicl",
+				"lsk_TargetVehicle"
+			],
+			[
+				"is",
+				"IsPlayerToolTipsOn"
+			],
+			[
+				"Move",
+				"MoveBotToNext"
+			],
+			[
+				"obj",
+				"objectid"
+			],
+			[
+				"MAX_",
+				"MAX_Y"
+			],
+			[
+				"infoms",
+				"infomsg-interval"
+			],
+			[
+				"ginfo",
+				"gInfoMessageInterval"
+			],
+			[
+				"0xf",
+				"0xFFFF00FF"
+			],
+			[
+				"item",
+				"InventoryUI_Item"
+			],
+			[
+				"invent",
+				"InventoryUI_Background"
+			],
+			[
+				"PlayerText",
+				"PlayerTextDrawShow"
+			],
+			[
+				"Inv",
+				"Inventory_Back"
+			],
+			[
+				"in",
+				"infomsgs"
+			],
+			[
+				"lasthit",
+				"ply_LastHitBy"
+			],
+			[
+				"rea",
+				"reason"
+			],
+			[
+				"fil",
+				"filedir"
+			],
+			[
+				"LoadPl",
+				"LoadPlayerVehicles_OLD"
+			],
+			[
+				"DIRECTORY_VEHICLE_I",
+				"DIRECTORY_VEHICLE_INV"
+			],
+			[
+				"array_",
+				"array_data"
+			],
+			[
+				"vehmodel",
+				"vehiclemodel"
+			],
+			[
+				"armour",
+				"ply_ArmourPoints"
+			],
+			[
+				"face",
+				"GearSlot_Face"
+			],
+			[
+				"back",
+				"GearSlot_Back"
+			],
+			[
+				"k_stora",
+				"k_StorageWatch"
+			],
+			[
+				"def_ty",
+				"def_type"
+			],
+			[
+				"isitem",
+				"IsItemTypeAmmoTin"
+			],
+			[
+				"GetWeaoam",
+				"GetWeaponAmmoType"
+			],
+			[
+				"Iitemty",
+				"IsItemTypeAmmoTin"
+			],
+			[
+				"IsItemType",
+				"IsItemTypeAmmoTin"
+			],
+			[
+				"itemty",
+				"itemtype"
+			],
+			[
+				"te",
+				"text2"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"Drop",
+				"SupplyCrateDrop"
+			],
+			[
+				"veh",
+				"vehicleid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "script.rpy",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "room_lab.rpy",
+			"settings":
+			{
+				"buffer_size": 629,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "room_hall.rpy",
+			"settings":
+			{
+				"buffer_size": 1162,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "room_storage.rpy",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "room_hallnight.rpy",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/J/College Work/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/Path/game/script.rpy",
+			"settings":
+			{
+				"buffer_size": 485,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pseudocode notes.py",
+			"settings":
+			{
+				"buffer_size": 1205,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/PAWN.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Show",
+				"Hex Viewer: Show Hex Inspector"
+			],
+			[
+				"hex Viewer sho",
+				"Hex Viewer: Show Hex Inspector"
+			],
+			[
+				"Hex Viewer: ",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"hex ",
+				"Hex Viewer: Set Bytes Per Line"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"set bits p",
+				"Hex Viewer: Set Bits Per Group"
+			],
+			[
+				"set bits",
+				"Hex Viewer: Set Bits Per Group"
+			],
+			[
+				"hex viewer: ",
+				"Hex Viewer: Set Bits Per Group"
+			],
+			[
+				"hex viewer",
+				"Hex Viewer: Set Bytes Per Line"
+			],
+			[
+				"",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"package control: upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"hex in",
+				"Hex Viewer: Show Hex Edit Panel"
+			],
+			[
+				"hex view",
+				"Hex Viewer: Set Bits Per Group"
+			],
+			[
+				"hexview",
+				"Hex Viewer: Set Bytes Per Line"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 228.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/J/College Work/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/Path/game/script.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/President Evil Origins/README.html",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Ban.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/BanCommand.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Data/Loot.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Commands.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Server/Settings.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Moderator.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Administrator.pwn",
+		"/E/Games/Projects/SA-MP/Stuff/Scavenge and Survive/ready-to-play/server.cfg",
+		"/E/Games/Projects/SA-MP/Stuff/Scavenge and Survive/ready-to-play/scriptfiles/SSS/settings.json",
+		"/E/Games/Projects/SA-MP/pawno/include/djson.inc",
+		"/E/Games/Projects/SA-MP/Stuff/Scavenge and Survive/ready-to-play/server_log.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/server.cfg",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SSS/settings.json",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles-folder-structure-and-readmes/SSS/settings.json",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles-folder-structure-and-readmes/SSS/settings.cfg",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Core.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Server/FileCheck.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/World/Defences.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Core.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SavedAttachments.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/World/SafeBox.pwn",
+		"/E/Games/Projects/SA-MP/Releases/AttachmentEditor/AttachmentEditor.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/testing.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Profile.pwn",
+		"/J/notes.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/World/Puzzles/Area69.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/World/SupplyCrate.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Server/Whitelist.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/WelcomeMessage.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Report.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Command.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Chat.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Accounts.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/GameMaster.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Dev.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/BugReport.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Item/injector.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Drugs.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Item/pills.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Death.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Medical.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Damage.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Vehicle/Core.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/KnockOut.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Button.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SavedAnimations.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Food.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/utils/time.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/utils/misc.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Server/Statistics.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Tutorial.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Spectate.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Holster.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Container.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Inventory.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Backpack.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Item.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/server_log.txt",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Inventory.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Vehicle/PlayerVehicle.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Vehicle/LockBreak.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Vehicle/Locksmith.pwn",
+		"/C/Users/Southclaw/Documents/Rainmeter/Skins/Enigma/Resources/Variables/UserVariables.inc",
+		"/C/Users/Southclaw/Documents/Rainmeter/Skins/Enigma/Sidebar/Reader/RememberTheMilk/RememberTheMilk.ini",
+		"/C/Users/Southclaw/Documents/Rainmeter/Skins/Enigma/Sidebar/Reader/Reader.ini",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/utils/vehicle.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Loot/Spawn.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/UI/ToolTips.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Weapon/Core.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Maps/BC/FortCarsonMedCentre.map",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/filterscripts/rn.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Server/ItemStream.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/SaveLoad.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/SaveLoadOLD.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SSS/Inventory/Mordecai.dat",
+		"/C/Users/Southclaw/AppData/Roaming/ProXoft/Binary Viewer/MapDefinitions/MiscelaneousStructures.cs",
+		"/C/Users/Southclaw/AppData/Roaming/ProXoft/Binary Viewer/MapDefinitions/PlayerChar.cs",
+		"/E/Games/Projects/SA-MP/pawno/include/string.inc",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Item/bottle.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/a_samp.inc",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SSS/Player/[HLF]Southclaw.dat",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SSS/Player/1Andrey_Gubin1.dat",
+		"/C/Program Files (x86)/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/Games/Projects/SA-MP/pawno/include/strlib.inc",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/filterscripts/test.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/HackDetect.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/World/HackTrap.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/World/Tent.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/filterscripts/gotocar.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/Spawn.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/World/Campfire.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Duty.pwn",
+		"/E/Games/Projects/SA-MP/Blank/gamemodes/blank.pwn",
+		"/E/Games/Projects/SA-MP/Blank/filterscripts/knife.pwn",
+		"/E/Games/Projects/SA-MP/Blank/gamemodes/sqlveh.pwn",
+		"/E/Games/Projects/SA-MP/Blank/server.cfg",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/utils/player.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Maps/interior",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Core.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-27 (Sun-27-Oct).txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-26 (Sat-26-Oct).txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-25 (Fri-25-Oct).txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-24 (Thu-24-Oct).txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-23 (Wed-23-Oct).txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-07 (Mon-07-Oct).txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-09-07 (Sat-07-Sep).txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-7 (Mon-07-Oct).txt",
+		"/E/Games/Projects/SA-MP/Blank/filterscripts/sif.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/World/Zones/SF.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Animations.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/AntiCombatLog.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Mute.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Disarm.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/MeleeItems.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/DisallowActions.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/UI/PlayerUI.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/playerprogress.inc",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/utils/tickcountfix.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/UI/Radio.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Maps/base.map",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sqvehicleltutorial.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sqlveh.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/sqlitei.inc",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sqvehicleltutorial.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SSS/settings.main.json",
+		"/C/Program Files (x86)/Sublime Text/Data/Packages/JsFormat/JsFormat.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Logs",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\SSS\\Logs(old)",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core\\Admin",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core\\Player",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Maps",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core\\Vehicle",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\World\\Zones",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\World",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\World\\Zones",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Core\\Item",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Vehicles",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\sa\\Zones",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Items",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Core\\Vehicle",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Core\\World",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\utils",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Core",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Maps\\OCEAN\\OilRig",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Core",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\sa\\Loot",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS\\Cmds",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS\\Areas",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS\\Player",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Items",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Items",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\Items",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts\\SSS\\Cmds",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scripts",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts",
+			"E:\\Games\\Projects\\samp-Hellfire\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts\\SSS",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts\\Items",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts\\SIF",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts\\SIF",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts",
+			"E:\\Games\\Projects\\samp-Hellfire\\scripts\\SSS"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$",
+			"\n$",
+			"task_jenkins",
+			"LOWER",
+			"ACCOUNTS_TABLE_BANS",
+			"BanPlayerByCommand",
+			"Finali",
+			"item_Motor",
+			"DIRECTORY_MAIN",
+			"DIRECTORY_VEHICLESPAWNS",
+			"DIRECTORY_SCRIPTFILES",
+			"define",
+			"  \"",
+			"item_Door",
+			"_",
+			"'\"SETTINGS_FILE\"'",
+			"]",
+			"gTotalInfoMessage",
+			"infomsgs",
+			"MAX_INFO_MESSAGE",
+			"\\n\\",
+			"\"C_WHITE\"",
+			"INV_CELL_NEW_BAGITEMS",
+			"motor",
+			"def_verticalRotX",
+			"def_verticalRotY",
+			"def_horizontalRotX",
+			"item_CorPanel",
+			"item_MetPanel",
+			"item_Door",
+			"0000",
+			"0.0000, ",
+			"h_",
+			"Float:r",
+			"def_placeRot",
+			"def_placeRotX",
+			"\"C_YELLOW\"",
+			"\\\"(C_\\w+)\\\"",
+			"\\\"(#)(C_\\w+)\\\"",
+			"doctorbag",
+			"DRUG_TYPE_PAINKILL",
+			"veh_locked",
+			"h",
+			"locked",
+			"SetVehicleLock",
+			"change",
+			"ban_CurrentTarget",
+			"CancelBan",
+			"hitpoints",
+			"-1",
+			"SetPlayerDrunkLevel",
+			"adrenaline",
+			"1.5",
+			"IsPlayerUnderDrugEffect",
+			"GetPlayerDrugUseTick",
+			"DRUG_TYPE_LSD",
+			"DRUG_TYPE_MORPHINE",
+			"0.00",
+			"\\\"(C_\\w+)\\\"",
+			"\\\"(#)(C_\\w+)\\\"",
+			"\\\"(#)(C_)(\\w+)\\\"",
+			"\\\"(#)(C_)(\\w)\\\"",
+			"\\\"#C_\\w+\\\"",
+			"\\\"(#C_)(BLUE)\\\"",
+			"\\\"(#C_)(w+)\\\"",
+			"\\\"#C_(w+)\\\"",
+			"\\\"#C_(A..Z)\\\"",
+			"DRUG",
+			"sprintf",
+			"ty",
+			"def_buttonId",
+			"4.0",
+			"10.0",
+			"4.0",
+			"SetButtonLabel",
+			"def_hitpoints",
+			"hitpoints",
+			"setbuttonla",
+			"def_buttonId",
+			"label",
+			"def_buttonId",
+			"def_Data",
+			"def_TypeData",
+			"VEHICLE] Vegeta",
+			"misc",
+			"Stati",
+			"Stat",
+			"playerid",
+			"hols_Item",
+			"GetPlayerHolsterItem",
+			"deleteaccount",
+			"app_",
+			"OnPlayerCloseContainer",
+			"inv_",
+			"OnPlayerCloseContainer",
+			"closec",
+			"	#endif\n	return 0;\n",
+			"bag_",
+			"test3_",
+			"OnPlayerCloseContainer",
+			"test1",
+			"test1_",
+			"OnPlayerConnect",
+			"MyLib_",
+			"OnPlayerConnect",
+			"    ",
+			"bag_",
+			"public OnPlayerCloseContainer(playerid, containerid)",
+			"OnPlayerCloseContainer",
+			"OnPlayerClose",
+			"OnPlayerCloseContainer",
+			"response",
+			"public",
+			"gPlayerData[playerid][ply_SpectateTarget]",
+			"gPlayerName[gPlayerData[playerid][ply_SpectateTarget]",
+			"gPlayerName[gPlayerData[playerid][ply_SpectateTarget]]",
+			"gPlayerName[gPlayerData[playerid][ply_SpectateTarget]",
+			"gPlayerData[playerid][ply_SpectateTarget]",
+			"trunklock",
+			"onplayerenter",
+			"IsVehicleLocked",
+			"GetVehicleExternalLock",
+			"veh_locked",
+			"veh_lockedEx",
+			"model",
+			"statechange",
+			"SetVehicleOccupied",
+			"veh_Occupied"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"$2\"",
+			"	#else\n		return 0;\n	#endif\n",
+			"IsVehicleLocked",
+			"if(!IsPlayerConnected(playerid))",
+			"IsPlayerKnockedOut($1)",
+			"gpci",
+			"OnPlayerInteractVehicle",
+			"bot",
+			"PLAYER_INV_FILE",
+			"PLAYER_DAT_FILE",
+			"dirReader_open(\"scriptfiles/\"DIRECTORY",
+			"",
+			"i > -1",
+			"	for(new i; i < filecount; i++) \n	{\n		dirReader_getFileAtIndex(direc, i, item); \n\ni > -1",
+			"	for(new i; i < filecount; i++) \n	{\n		dirReader_getFileAtIndex(direc, i, item); \n\n",
+			"for(new i; i < filecount; i++) ",
+			"dirReader_open",
+			"DR:",
+			"REPLACE",
+			"dclose",
+			"\"\"",
+			"TYPE_DIR",
+			"Dir:",
+			"dread",
+			"dopen",
+			"TYPE_FILE",
+			"150.50000",
+			"148.6",
+			"148.66000",
+			"150.50000",
+			"135",
+			"137",
+			"Mask",
+			"MASK",
+			"FACE",
+			"",
+			"Defence",
+			"15, loot_Industrial",
+			"10, loot_Survivor",
+			"20, loot_Civilian",
+			"[16:56:38]",
+			"x, y, z",
+			"ffff",
+			"GivePlayerBag",
+			"GetPlayerBagItem",
+			"ss/",
+			"gPlayerBitData",
+			"ply_SpawnRotZ",
+			"ply_SpawnPos",
+			"ply_Karma",
+			"ply_Clothes",
+			"ROW_",
+			"Trip Mine",
+			"emp",
+			"DefineItemToolTip",
+			"item_TntPhoneBomb",
+			"item_TntTimebomb",
+			"item_OrdTimebomb",
+			"public OnPlayerUseItemWithItem(playerid, itemid, withitemid)\n{\n	print(\"INSERT\");\n",
+			"public OnPlayerUseItemWithItem(playerid, itemid, withitemid)\n{\n	print(\"INSERT\");",
+			"IsValidVehicleID",
+			"\\t[SAVE]",
+			"\\t[LOAD]",
+			"0, 0, 3000",
+			"15, loot_Industrial",
+			"GetPlayerDataBitmask(targetid)",
+			"GetPlayerDataBitmask(playerid)",
+			"frandom(100.0)",
+			"item_LargeBox",
+			"DRUG_TYPE_ANTIBIOTIC",
+			"AMMO_TYPE_357",
+			"item_Ammo357",
+			"DIALOG_STYLE_MSGBOX",
+			"ActionText",
+			"HideActionText",
+			"ShowActionText",
+			"CreateObject",
+			"idx",
+			"COORD_",
+			"geoip_dbresult",
+			"tp_SetPos",
+			"Heal",
+			"Bandage",
+			"INV_MAX_SLOTS",
+			"ROOM_HEIGHT",
+			"DIALOG_INVENTORY_LIST",
+			"OnPlayerSelectInventoryOpt",
+			"OnPlayerViewInventoryOpt",
+			"OnPlayerSelectInventoryOpt",
+			"OnPlayerViewInventoryOpt",
+			"OnPlayerSelectContainerOpt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "script.rpy",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "room_lab.rpy",
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "room_hall.rpy",
+					"settings":
+					{
+						"buffer_size": 1162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "room_storage.rpy",
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "room_hallnight.rpy",
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/J/College Work/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/Path/game/script.rpy",
+					"settings":
+					{
+						"buffer_size": 485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pseudocode notes.py",
+					"settings":
+					{
+						"buffer_size": 1205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								797,
+								810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 147.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 23.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"scriptfiles/SSS/settings.json"
+			],
+			[
+				"timers/impl",
+				"include/YSI/y_timers/impl.inc"
+			],
+			[
+				"djson",
+				"include/djson.inc"
+			],
+			[
+				"hackt",
+				"scripts/Core/World/HackTrap.pwn"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true
+}
