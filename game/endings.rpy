@@ -1,3 +1,4 @@
+
 label ending_dead:
 
     "You have infected yourself with the sample. Good job 10/10."
@@ -6,11 +7,12 @@ label ending_dead:
 
 label ending_good:
 
-    "Felix isn't found, tries to stop the infection but it's too late"
+    "Felix isn't found, tries to stop the infection but it's too late!"
     jump ending_end
 
 
 label ending_bad:
 
-    "Felix is discovered trying to stop the infection"
+    "Felix is discovered trying to stop the infection. Game over!"
     jump ending_end
+

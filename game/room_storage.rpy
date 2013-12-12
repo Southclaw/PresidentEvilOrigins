@@ -25,6 +25,7 @@ label storage_death:
 
 
 label storage_survive:
+
     $ has_sample = True
 
     "You have the sample hidden in your pocket now."

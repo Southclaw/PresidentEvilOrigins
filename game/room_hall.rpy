@@ -33,6 +33,7 @@ label hall_lexia_talk:
     "Lexia leaves abruptly before you can respond."
 
     $ task_lexia = True
+    $ suspect_jenkins = True
 
     menu:
         "Go to the storage room":
@@ -62,7 +63,9 @@ label hall_empty:
 label hall_escape:
 
     if suspect_lexia == True:
+        "Just as you thought, Lexia is waiting outside and sees you!"
         jump ending_bad
 
-    if suspect_jenkins == True:
+    else:
+        "Lexia left the area earlier so the coast is clear to escape!"
         jump ending_good
