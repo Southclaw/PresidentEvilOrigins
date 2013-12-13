@@ -2,12 +2,12 @@
 
     scene room_hall
 
+    if has_sample == True:
+        jump hall_escape
+
     if task_lexia == False:
         jump hall_lexia
 
-    if has_sample == True:
-        jump hall_escape
-    
     jump hall_empty
 
 
