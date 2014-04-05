@@ -30,3 +30,6 @@ Set up a Git repository for the project for better change logging and backups.
 2013/12/12
 Finalised the 4 room render images for the scenes.
 Polished up some bugs with endings and completed the project.
+
+2013/12/13
+Fixed one small bug before distribution build was compiled.

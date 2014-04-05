@@ -1,6 +1,6 @@
 #Compiled RPY files
 game/bytecode.rpyb
-game\script.rpyc
+game/script.rpyc
 
 game/*.rpyc
 game/*.rpyb

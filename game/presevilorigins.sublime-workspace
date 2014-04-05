@@ -519,62 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "script.rpy",
-			"settings":
-			{
-				"buffer_size": 685,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "room_lab.rpy",
-			"settings":
-			{
-				"buffer_size": 629,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "room_hall.rpy",
-			"settings":
-			{
-				"buffer_size": 1162,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "room_storage.rpy",
-			"settings":
-			{
-				"buffer_size": 74,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "room_hallnight.rpy",
-			"settings":
-			{
-				"buffer_size": 79,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/J/College Work/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/Path/game/script.rpy",
-			"settings":
-			{
-				"buffer_size": 485,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pseudocode notes.py",
-			"settings":
-			{
-				"buffer_size": 1205,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/User/PAWN.sublime-build",
 	"command_palette":
@@ -664,7 +608,24 @@
 	},
 	"file_history":
 	[
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/script.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/room_hall.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/scrapbook/game/script.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/options.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/project.json",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/scrapbook/game/lolfuckyou.txt",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/endings.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/room_hallnight.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/pseudocode notes.py",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/room_storage.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/.git/info/exclude",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/scrapbook/README.html",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/Changelog.txt",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/game/room_lab.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/.gitignore",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/screens/test2 example.txt",
 		"/J/College Work/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/Path/game/script.rpy",
+		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/PresidentEvilOrigins/README.html",
 		"/E/Documents/College/Term 4/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/President Evil Origins/README.html",
 		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Ban.pwn",
 		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/BanCommand.pwn",
@@ -774,24 +735,7 @@
 		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-09-07 (Sat-07-Sep).txt",
 		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Logs/2013-10-7 (Mon-07-Oct).txt",
 		"/E/Games/Projects/SA-MP/Blank/filterscripts/sif.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/World/Zones/SF.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Animations.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/AntiCombatLog.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Admin/Mute.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/Disarm.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Char/MeleeItems.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/Player/DisallowActions.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/UI/PlayerUI.pwn",
-		"/E/Games/Projects/SA-MP/pawno/include/playerprogress.inc",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/utils/tickcountfix.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/Core/UI/Radio.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/Maps/base.map",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sqvehicleltutorial.txt",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sqlveh.pwn",
-		"/E/Games/Projects/SA-MP/pawno/include/sqlitei.inc",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sqvehicleltutorial.pwn",
-		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/SSS/settings.main.json",
-		"/C/Program Files (x86)/Sublime Text/Data/Packages/JsFormat/JsFormat.sublime-settings"
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/SS/World/Zones/SF.pwn"
 	],
 	"find":
 	{
@@ -802,6 +746,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"E:\\Documents\\College\\Term 4\\Unit 70 - Computer Game Engines\\renpy-6.15.7-sdk\\PresidentEvilOrigins\\game",
 			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
 			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
 			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
@@ -917,6 +862,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hall_escape",
+			"num1",
+			"num_two",
+			"num_one",
+			"name",
+			"jenkins",
+			"suspect_jenkins",
+			"hall_escape",
+			"exit",
+			"ending_bad",
+			"label",
+			"return",
+			"\n",
+			"ending",
+			"suspect_lexia",
+			":",
+			"menu",
+			"s",
+			"jump",
+			"Hide",
 			"$",
 			"\n$",
 			"task_jenkins",
@@ -1024,27 +989,7 @@
 			"OnPlayerConnect",
 			"    ",
 			"bag_",
-			"public OnPlayerCloseContainer(playerid, containerid)",
-			"OnPlayerCloseContainer",
-			"OnPlayerClose",
-			"OnPlayerCloseContainer",
-			"response",
-			"public",
-			"gPlayerData[playerid][ply_SpectateTarget]",
-			"gPlayerName[gPlayerData[playerid][ply_SpectateTarget]",
-			"gPlayerName[gPlayerData[playerid][ply_SpectateTarget]]",
-			"gPlayerName[gPlayerData[playerid][ply_SpectateTarget]",
-			"gPlayerData[playerid][ply_SpectateTarget]",
-			"trunklock",
-			"onplayerenter",
-			"IsVehicleLocked",
-			"GetVehicleExternalLock",
-			"veh_locked",
-			"veh_lockedEx",
-			"model",
-			"statechange",
-			"SetVehicleOccupied",
-			"veh_Occupied"
+			"public OnPlayerCloseContainer(playerid, containerid)"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1153,201 +1098,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "script.rpy",
-					"settings":
-					{
-						"buffer_size": 685,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								437,
-								449
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "room_lab.rpy",
-					"settings":
-					{
-						"buffer_size": 629,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86,
-								86
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "room_hall.rpy",
-					"settings":
-					{
-						"buffer_size": 1162,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								199,
-								199
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "room_storage.rpy",
-					"settings":
-					{
-						"buffer_size": 74,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "room_hallnight.rpy",
-					"settings":
-					{
-						"buffer_size": 79,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								77,
-								77
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/J/College Work/Unit 70 - Computer Game Engines/renpy-6.15.7-sdk/Path/game/script.rpy",
-					"settings":
-					{
-						"buffer_size": 485,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								208,
-								243
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "pseudocode notes.py",
-					"settings":
-					{
-						"buffer_size": 1205,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								797,
-								810
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
